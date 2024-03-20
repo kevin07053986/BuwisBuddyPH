@@ -36,14 +36,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginTop="16dp" />
 
-    <TextView
-        android:id="@+id/textView2"
+    <ImageView
+        android:id="@+id/logo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BuwisBuddyPH"
-        android:textSize="40dp"
-        android:textColor="@color/custom_button_88ab8e"
-        android:textStyle="bold"
+        android:src="@drawable/logobbph"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
