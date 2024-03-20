@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".DashboardActivity"
-    android:background="@color/custom_button_88ab8e">
+    android:background="@drawable/img_bg2">
 
 
     <TextView
